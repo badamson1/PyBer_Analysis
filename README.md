@@ -2,10 +2,12 @@
 ## Overview
 The purpose of this challenge was to summarize ride-sharing data by city type and to look at total fares for each city type
 ## Results
-![](analysis/summary.png)
+![](analysis/summary.PNG)
+
 Judging from the above image of our summary we can see that Urban cities have the most total rides, drivers, and fares. However, urban cities have the lowest fare per ride and fare per driver. Rural cities have the highest fare per ride and driver.
 
 ![](analysis/Pyber_fare_summary.png)
+
 From this above image we can see that urban cities overall most steadily earn the most money of all city types, but urban cities took a big dip in fare in April.
 
 ## Summary
